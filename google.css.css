@@ -1,0 +1,114 @@
+div.bandeau_haut {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    height: 100px;
+    margin-right: 5px;
+    border: 0px black solid;
+}
+
+div.section_droite {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+    width: 450px;
+    height: 80px;
+    margin-right: 50px;
+    border: 0px black solid;
+} 
+
+div.gmail {
+    display: flex;
+    justify-content: flex-start;
+    order: -1;
+    width: 90px;
+    height: 50px;
+    margin-right: 5px;
+    border: 0px black solid;
+} 
+
+div.image {
+    display: flex;
+    justify-content: flex-start;
+    width: 90px;
+    height: 50px;
+    margin-right: 5px;
+    border: 0px black solid;
+} 
+
+div.carré_logorond {
+    display: flex;
+    justify-content: flex-end;
+    order: -3;
+    width: 90px;
+    height: 50px;
+    margin-right: 5px;
+    border: 0px black solid;
+    
+} 
+
+div.logo_haut_droite {
+    display: flex;
+    justify-content: center;
+    width: 90px;
+    height: 50px;
+    
+} 
+
+div.bandeau_milieu_sup {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    width: 1200px;
+    height: 100px;
+} 
+
+div.bandeau_google {
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 75px;
+} 
+
+div.logo_google {
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 75px;
+} 
+
+div.bandeau_milieu {
+    display: flex;
+    align-items: flex-end;
+    width: 1200px;
+    height: 25px;
+} 
+
+#searchbar {
+display: flex;
+justify-content: center;
+width: 1200px;
+height: 25px;
+} 
+
+div.bandeau_bas {
+    display: flex;
+    align-items: center;
+    width: 1200px;
+    height: 25px;
+    border: 0px black solid;
+} 
+div.partie_haute {
+    display: flex;
+    align-items: flex-start;
+    width: 50px;
+    height: 25px;
+    border: 1px black solid;
+} 
+div.partie_basse {
+    display: flex;
+    align-items: flex-end;
+    width: 50px;
+    height: 25px;
+    border: 1px black solid;
+} 
